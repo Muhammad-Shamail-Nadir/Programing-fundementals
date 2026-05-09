@@ -5,7 +5,7 @@ import java.util.Map;
 
 class ProductSumHashmap {
     public static void main(String[] args) {
-        File f1 = new File("c:\\temp\\sale.txt");
+        File f1 = new File("F:\CS-351 Programing Fundamentals\sale.txt");
         Scanner inp;
         String dr;
         HashMap<String, Double> salesMap = new HashMap<String, Double>();
